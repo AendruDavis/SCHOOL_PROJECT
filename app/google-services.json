@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192659027808",
+    "project_id": "mengo-5d23d",
+    "storage_bucket": "mengo-5d23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192659027808:android:336b488affd07a86149005",
+        "android_client_info": {
+          "package_name": "com.kotlinliza.mengo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192659027808-4d0tdpuvrqo3vkajbvvpg93u61jieond.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDy0tocPOuqdQoc3rDVFtyag42GEh11I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192659027808-4d0tdpuvrqo3vkajbvvpg93u61jieond.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
